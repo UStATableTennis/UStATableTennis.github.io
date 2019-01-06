@@ -3,6 +3,8 @@ layout: single
 author_profile: true
 permalink: /executiveteam
 title: "The Executive Team"
+header:
+  overlay_image: /assets/images/header.jpg
 ---
 
 ## President / Men's Captain

@@ -3,6 +3,8 @@ layout: single
 author_profile: true
 permalink: /
 title: "About"
+header:
+  overlay_image: /assets/images/header.jpg
 ---
 
 The University of St Andrews Table Tennis club is a student run table tennis club within the University of St Andrews. The club is open to all students and staff at the university and meets every Sunday in the University Sports Hall from 7-9pm.
