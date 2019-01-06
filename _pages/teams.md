@@ -18,7 +18,10 @@ gallery:
     alt: "men's second team"
     title: "Men's Second Team"
     url: /assets/images/msecondteam.jpg
+classes: wide
 ---
+
+{% include gallery caption="From left to right: Men's First, Women's First, Men's Second" %}
 
 ## Men's First Team
 ### Captain: Justin Yang
@@ -31,5 +34,3 @@ Rachel Senior <br> Jewel Cha <br> Wenxi Zhang
 ## Men's Second Team
 ### Captain: Thomas Noakes
 James Cole <br> Hendrik-Jan Van Damme <br> Max Ayling <br> Vinayak Shastri <br> Brendan Green
-
-{% include gallery caption="From left to right: Men's First, Women's First, Men's Second" %}
