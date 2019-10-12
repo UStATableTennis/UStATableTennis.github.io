@@ -34,22 +34,22 @@ classes: wide
 ---
 
 ## President / Men's First Team Captain
-Justin Yang (jy50)
+Justin Yang (jy50) ![President/Men's First Team Captain](/assets/images/President.jpg)
 
 ## Women's First Team Captain
-Sarah Matthew (sem29)
+Sarah Matthew (sem29) 
 
 ## President / Men's Second Team Captain
-Thomas Noakes (tn35)
+Thomas Noakes (tn35) ![Men's Second Tean Captain](/assets/images/MensSecondCaptain.jpg)
 
 ## Vice President
-Vinayak Shastri (vs72)
+Vinayak Shastri (vs72) ![Vice President](/assets/images/VicePresident.jpg)
 
 ## Treasurer
-Xin Jet Chew (xjc)
+Xin Jet Chew (xjc) ![Treasurer](/assets/images/Treasurer.jpg)
 
 ## Secretary
-Lawrence Ho (chlh)
+Lawrence Ho (chlh) ![Secretary](/assets/images/Secretary.jpg)
 
 ## Social Rep
-Jean-Augustin Touton (jat23)
+Jean-Augustin Touton (jat23) ![Social Secretary](/assets/images/SocialSecretary.jpg)
